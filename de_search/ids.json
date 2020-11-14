@@ -3,7 +3,7 @@
 	"2": ["1. Introduccion", "introduccion.htm", []],
 	"3": ["2. Config Git", "config_git.htm", []],
 	"4": ["2.1. config", "config.htm", [2]],
-	"5": ["2.2. .gitignore", "_gitignore.htm", [2]],
+	"5": ["2.2. file .gitignore", "file__gitignore.htm", [2]],
 	"6": ["3. Comandos Git", "comandos_git.htm", []],
 	"7": ["3.1. clone", "clone_1.htm", [3]],
 	"8": ["3.2. init", "init.htm", [3]],
